@@ -1,0 +1,20 @@
+##constructor and constructor.name
+<ul>
+<li>html</li>	
+<li id="selected">css</li>	
+<li id="extra">javascri;t</li>	
+</ul>
+document.getElementsByClassName.constructor
+document.getElementsByClassName.constructor.name
+document.getElementsByClassName('li').constructor
+document.getElementsByClassName('li').constructor.name
+
+window.navigator.userAgent
+window.navigator.platform
+window.navigator.appName
+window.navigator.geolocation
+window.navigator.product
+window.navigator.language
+window.navigator.cookieEnabled
+window.navigator.appVersion
+window.navigator.onLine
